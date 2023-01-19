@@ -1,0 +1,5 @@
+def full(firstname, lastname):
+	print(firstname + " " + lastname)
+    
+    
+full("Sahithi", "Kalvala")
