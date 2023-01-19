@@ -1,0 +1,8 @@
+def inchestocentimeters():
+    list1 = [150, 155, 145, 148]
+    list2 = []
+    for i in list1:
+        list2.append(float(i * 2.54))
+    print(list2)
+
+inchestocentimeters()
